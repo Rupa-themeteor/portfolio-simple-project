@@ -22,7 +22,7 @@ A clean and minimal **portfolio website** built with **HTML** and **basic CSS**,
 
 # How to view
 
-You can access my portfolio website by visiting [https://rupa-themeteor.github.io/portfolio-simple-project/] feel free to explore the content and get in touch!
+You can access my portfolio website by visiting [] feel free to explore the content and get in touch!
 
 # Contributing
 
